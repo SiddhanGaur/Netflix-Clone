@@ -1,4 +1,4 @@
-This netflix clone is a dynamic site and has everything you need for fullstack development practice.
+This netflix clone is a dynamic site.
 It runs on a Node.js server. 
 It uses TMDB API for all data.
 
